@@ -13,7 +13,7 @@ while True:
             break
 
     except ValueError:
-        print("Max musi byc wieksze od min")
+        print("Max musi byc wieksze od min i obie wartosci musza byc liczba calkowita")
 
 
 for i in range(0, 5):
